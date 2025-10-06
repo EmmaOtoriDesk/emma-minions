@@ -1,0 +1,8 @@
+{
+  "name": "EmmaMinions",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "e688e110"
+}
